@@ -1,0 +1,109 @@
+body{
+	background: white;
+	margin: 0;
+	padding: 0;
+
+}
+.header{
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	/*border: 2px solid black;*/
+	background: #4867AA;
+	box-sizing: border-box;
+	overflow: hidden;
+	
+}
+
+.logo{
+	width: 20%;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	background: #4867AA;
+	float: left;
+}
+.inputfield{
+	width: 45%;
+	padding: 6px;
+	margin: 6px;
+	box-sizing: border-box; 
+	float: right;
+
+}
+.labelfield{
+	width: 40%;
+	padding: 6px;
+	margin: 6px;
+	box-sizing: border-box;
+	display: inline-block;
+}
+
+.login{
+	width: 10%;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	display: inline-block;
+}
+
+.body{
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	background: black;
+}
+
+
+.bodyimage{
+	width: 60%;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	float: left;
+	overflow: none;
+}
+
+.form{
+	width: 40%;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	float: right;
+}
+
+
+.language_selection{
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	display: inline-block;
+	background: white;
+	text-align: justify;
+}
+.footer_table{
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	display: inline-block;
+	background: white;
+}
+
+.footer_table tr{
+	width: 100%;
+	padding-left: 8%;
+	margin: 0;
+	box-sizing: border-box;
+	display: inline-block;
+	background: white;
+
+}
+.footer{
+	width: 100%
+	padding:0;
+	margin: 0;
+}
+
